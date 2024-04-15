@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+#sardar {
+    width: 100%;
+    height: 600px;
+    align-items: center;
+    border: 5px solid white
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Libre Baskerville;
+    font-size: 64px;
+}
+
+#block { 
+    margin-top: 150px;
+    width: 50%;
+    margin-left: 25%;
+}
