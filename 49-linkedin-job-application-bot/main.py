@@ -29,9 +29,6 @@ sign_in_button.click()
 time.sleep(2)
 
 # Saving job application
-# job_save_button = driver.find_element(By.CLASS_NAME, value="jobs-save-button")
-# job_save_button.click()
-# print("Job is saved!")
 list_of_jobs = driver.find_elements(By.CLASS_NAME, value="jobs-search-results__list-item")
 
 jobs_saved = 0
